@@ -2,7 +2,8 @@
 //10-25-2022
 //Odd Or Even - Endpoint
 //Create a controller and endpoint where a function if the users number input is odd or even.
-//Peer Review by; 
+//Peer Review by Griffin Parker - This code works great, is organized well and doesn't break when you-
+//input a non-integer value. Very well made; good job!
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
